@@ -1,0 +1,8 @@
+-->python file handling:
+
+
+API Key: 1yaQ07vQmW9IJJxClQDRC32rf
+
+API Key Secret: iPJJR7ZwkorC5Vo0pLx8xyi8UrYeJgxDRsE0XGzCRpHfjZ3GI5
+
+Bearer Token: AAAAAAAAAAAAAAAAAAAAAF7%2BiQEAAAAAqtZAObJezzm0WorK9dewCjTd6Hk%3DDIa7rh1bLhNlRIkXZQdsLwaFs5P6RIOb2FDMihAxj2d9yFNT3W
